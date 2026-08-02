@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <g transform="translate(512 0) scale(-1 1)">
+    <!-- Background -->
+    <rect width="512" height="512" fill="#09090B"/>
+    <!-- Hanger -->
+    <g fill="none" stroke="#FFFFFF" stroke-width="48" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M 120 346 L 256 246 A 60 60 0 0 0 316 186 A 60 60 0 0 0 196 186"/>
+      <path d="M 256 246 L 392 346"/>
+    </g>
+    <!-- Arrow -->
+    <path d="M 188 386 L 256 336 L 324 386" fill="none" stroke="#FF3366" stroke-width="48" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
