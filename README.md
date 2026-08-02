@@ -22,8 +22,6 @@ npx serve .
 
 ## Public pages
 
-- Home: <https://clodout.github.io/>
-- Privacy: <https://clodout.github.io/privacy/>
-- Support: <https://clodout.github.io/support/>
-
-The planned custom domain is `clodout.haseeb.ca`.
+- Home: <https://clodout.haseeb.ca/>
+- Privacy: <https://clodout.haseeb.ca/privacy/>
+- Support: <https://clodout.haseeb.ca/support/>
