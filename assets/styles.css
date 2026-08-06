@@ -163,23 +163,6 @@ h1 {
     font-size: 1.4rem;
 }
 
-.status {
-    display: inline-flex;
-    align-items: center;
-    gap: 9px;
-    margin-top: 34px;
-    color: var(--muted);
-    font-size: 0.93rem;
-}
-
-.status::before {
-    width: 8px;
-    height: 8px;
-    border-radius: 50%;
-    background: var(--accent);
-    content: "";
-}
-
 .feature-band {
     padding-block: 76px;
 }
